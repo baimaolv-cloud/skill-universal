@@ -34,7 +34,8 @@ Universal Skill Pack for OpenClaw
 ## Installation
 
 ```bash
-clawhub install skill-universal
+git clone https://github.com/baimaolv-cloud/skill-universal.git ~/.openclaw/workspace/skills/skill-universal
+bash ~/.openclaw/workspace/skills/skill-universal/scripts/example.sh
 ```
 
 ## Usage
