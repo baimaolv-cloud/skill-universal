@@ -1,0 +1,10 @@
+{
+  "name": "skill-universal",
+  "version": "1.0.0",
+  "description": "Universal Skill Pack for OpenClaw",
+  "main": "SKILL.md",
+  "scripts": {},
+  "keywords": ["openclaw", "skill", "universal", "agent"],
+  "author": "baimaolv-cloud",
+  "license": "MIT"
+}
