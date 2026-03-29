@@ -1,10 +1,64 @@
 {
   "name": "skill-universal",
   "version": "1.0.0",
-  "description": "Universal Skill Pack for OpenClaw",
-  "main": "SKILL.md",
-  "scripts": {},
-  "keywords": ["openclaw", "skill", "universal", "agent"],
-  "author": "baimaolv-cloud",
-  "license": "MIT"
+  "description": "灏忚櫨鐨勫畬鏁存妧鑳藉簱 - 130+ 鎶€鑳芥墦鍖呴泦鍚?,
+  "author": "XiaoXia (灏忚櫨) 馃",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "openclaw",
+    "ai",
+    "agents",
+    "automation",
+    "tools",
+    "plugins",
+    "devops",
+    "productivity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baimaolv-cloud/skill-universal.git"
+  },
+  "homepage": "https://github.com/baimaolv-cloud/skill-universal#readme",
+  "bugs": {
+    "url": "https://github.com/baimaolv-cloud/skill-universal/issues"
+  },
+  "engines": {
+    "openclaw": ">=2026.3.13",
+    "python": ">=3.10",
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "install": "bash install.sh",
+    "install:windows": "install.bat",
+    "list": "ls skills/",
+    "search": "grep -r",
+    "validate": "find skills -name SKILL.md -exec echo '鉁? {} \\;"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "skills": {
+    "total": 130,
+    "categories": [
+      "devops",
+      "ai_enhanced",
+      "document",
+      "search_research",
+      "content_creation",
+      "communication",
+      "utility",
+      "trading_finance",
+      "meeting_collaboration",
+      "programming",
+      "others"
+    ]
+  },
+  "files": [
+    "README.md",
+    "SKILL-MANIFEST.md",
+    "skill-index.json",
+    "install.sh",
+    "install.bat",
+    "skills/"
+  ]
 }
