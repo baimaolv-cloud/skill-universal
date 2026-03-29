@@ -1,0 +1,86 @@
+{
+  "name": "skill-universal",
+  "version": "1.0.0",
+  "description": "灏忚櫨鐨勫畬鏁存妧鑳藉簱 - 130+ 鎶€鑳芥墦鍖呴泦鍚?,
+  "author": "XiaoXia (灏忚櫨) 馃",
+  "created": "2026-03-30",
+  "total_skills": 130,
+  "categories": {
+    "devops": {
+      "count": 15,
+      "skills": ["github", "mcporter", "qclaw-env", "qclaw-openclaw", "qclaw-skill-creator", "skill-vetter", "clangd-lsp", "lsp", "lsp-python", "mcp-builder", "create-readme", "changelog-maintenance", "web-design-guidelines", "automation-workflows", "free-ride"]
+    },
+    "ai_enhanced": {
+      "count": 12,
+      "skills": ["proactive-agent", "self-improving-agent", "capability-evolver", "humanizer", "humanizer-zh", "agent-browser", "auto-updater", "elite-longterm-memory", "ontology", "byteRover", "clawddocs", "model-usage"]
+    },
+    "document": {
+      "count": 10,
+      "skills": ["docx", "pptx", "pdf", "xlsx", "tencent-docs", "feishu-docx-powerwrite", "nano-pdf", "nano-banana-pro", "citation-manager", "doc-coauthoring"]
+    },
+    "search_research": {
+      "count": 15,
+      "skills": ["online-search", "multi-search-engine", "brave-search", "baidu-search", "arxiv-reader", "arxiv-watcher", "stock-analysis", "stock-monitor", "stock-select", "china-stock-analysis", "new-akshare-stock", "quant-backtest", "market-researcher", "idea-validator", "polymarketodds"]
+    },
+    "content_creation": {
+      "count": 12,
+      "skills": ["content-factory", "content-repurposer", "video-script", "wechat-article-crayon", "wechat-article-typeset", "frontend-design", "canvas-design", "algorithmic-art", "brand-guidelines", "web-artifacts-builder", "theme-factory", "slack-gif-creator"]
+    },
+    "communication": {
+      "count": 8,
+      "skills": ["email-skill", "imap-smtp-email", "gog", "tencent-meeting-mcp", "slack", "internal-comms", "gmail", "outlook-api"]
+    },
+    "utility": {
+      "count": 15,
+      "skills": ["token-auditor", "weather-advisor", "tarot", "note-organizer", "file-skill", "cloud-upload-backup", "habit-tracker", "habit-coach", "goal-tracker", "study-habits", "nutritionist", "movie-advisor", "music-recommender", "travel-planner", "night-owl-shrimp"]
+    },
+    "trading_finance": {
+      "count": 10,
+      "skills": ["stock-analysis", "stock-monitor", "stock-select", "china-stock-analysis", "new-akshare-stock", "quant-backtest", "earnings-tracker", "macro-monitor", "analytics-dashboard", "niuamaxia-scheduler"]
+    },
+    "meeting_collaboration": {
+      "count": 5,
+      "skills": ["tencent-meeting-mcp", "slack", "internal-comms", "notion", "trello"]
+    },
+    "programming": {
+      "count": 12,
+      "skills": ["python", "python-executor", "python-script-generator", "python-code-test", "python-dataviz", "cpp", "cpp-pro", "code-mentor", "math", "math-solver", "mathproofs-claw", "quantumlab"]
+    },
+    "others": {
+      "count": 16,
+      "skills": ["kc-gui", "qqbrowser-skill", "obsidian-cli", "youtube-watcher", "youtube-api-skill", "video-frames", "summarize", "log-analyzer", "api-gateway", "find-skills", "skillhub-preference", "skill-storager", "skill-viewer", "debug-checklist", "precision-calc", "office"]
+    }
+  },
+  "sources": {
+    "system": {
+      "path": "D:\\Program Files\\QClaw\\resources\\openclaw\\config\\skills",
+      "count": 70
+    },
+    "workspace": {
+      "path": "C:\\Users\\mxiao\\.qclaw\\workspace\\skills",
+      "count": 39
+    },
+    "agents": {
+      "path": "C:\\Users\\mxiao\\.agents\\skills",
+      "count": 18
+    },
+    "openclaw": {
+      "path": "C:\\Users\\mxiao\\.openclaw\\workspace\\skills",
+      "count": 3
+    }
+  },
+  "repository": {
+    "github": "https://github.com/baimaolv-cloud/skill-universal",
+    "gitee": "https://gitee.com/baimaolv/skill-universal"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "openclaw",
+    "ai",
+    "agents",
+    "automation",
+    "tools",
+    "plugins"
+  ]
+}
