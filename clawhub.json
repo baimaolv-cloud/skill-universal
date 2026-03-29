@@ -1,0 +1,10 @@
+{
+  "slug": "skill-universal",
+  "name": "skill-universal",
+  "description": "Universal Skill Pack for OpenClaw - A collection of commonly used skills for AI agents",
+  "version": "1.0.0",
+  "author": "baimaolv-cloud",
+  "tags": ["openclaw", "skill", "universal", "agent"],
+  "repository": "https://github.com/baimaolv-cloud/skill-universal",
+  "license": "MIT"
+}
